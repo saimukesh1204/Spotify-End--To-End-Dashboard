@@ -1,4 +1,6 @@
 #Spotify Dashboard in Power BI
+
+
 📌 Overview
 This project demonstrates how to build an interactive Spotify Dashboard using Power BI and DAX measures. It transforms raw Spotify data (such as the Global Top 50 chart) into meaningful insights, allowing analysis of songs, artists, popularity trends, and explicit vs. non‑explicit tracks.
 
